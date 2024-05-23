@@ -1,7 +1,7 @@
 # GeekGenius Django Blog
 
 GeekGenius is a Django-based blog project designed to provide a platform for users to create and share blog posts. This README provides instructions for setting up and running the project both locally and using Docker.
-![README/img.png](README/img.png)
+![img.png](README/img.png)
 ## ------------------------------------------------------------------------------------------------------------------------
 ![img_1.png](README/img_1.png)
 ## ------------------------------------------------------------------------------------------------------------------------
