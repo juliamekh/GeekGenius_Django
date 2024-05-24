@@ -71,4 +71,3 @@ To import initial data, follow these steps:
 
 - Make sure to configure your `blog/settings.py` file according to your environment (e.g., database settings, allowed hosts, etc.).
 - Use the `.env` file to manage sensitive data and environment-specific configurations.
-- For any issues or contributions, please refer to the project's issue tracker and pull request guidelines on GitHub.
